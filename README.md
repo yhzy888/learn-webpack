@@ -1,0 +1,2 @@
+# learn-webpack
+实现自定义plugin，把src/components下的文件的json配置读出并输出一个数组对象格式的js文件
