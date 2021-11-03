@@ -1,0 +1,1 @@
+[{ "groupList": [{ "name": "Alert", "alise": "alert 弹窗", "type": "normal", "typeName": "常规类" }, { "name": "Button", "alise": "常规按钮", "type": "normal", "typeName": "常规类" }], "groupName": "常规类" }, { "groupList": [{ "name": "Input", "alise": "输入框", "type": "form", "typeName": "表单类" }], "groupName": "表单类" }]
